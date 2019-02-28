@@ -131,4 +131,8 @@ https://data.gov.in/catalog/district-wise-season-wise-crop-production-statistics
 83 -Ber<br>
 
 ## How to Run
-```git clone <repo link>```
+```sh
+   $ git clone https://github.com/ArunVigesh/Genie-Farm.git
+
+   $ python genie_farm.py
+   ```
