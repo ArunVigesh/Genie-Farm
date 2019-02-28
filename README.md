@@ -12,13 +12,6 @@ Insert Dataset link here
 ## TechStacks
 Insert Tech Stack here
 
-### Activate virtualenv
-
-[Click here](https://stackoverflow.com/questions/14604699/how-to-activate-virtualenv) to read about activating virtualenv.
-
-### Training & Testing
-
-
 ### Authors
 [Sanjay Lal](https://github.com/sanjailal),<br>
 [Arun Vigesh](https://github.com/ArunVigesh).
