@@ -7,10 +7,10 @@
 Prediction of crop yield of a particular crop for a particular area in a particular city for a particular year by means of linear regression machine learning algorithms available from the python library of sklearn.
 
 ## Dataset !!
-<Insert Dataset link>
+Insert Dataset link here
 
 ## TechStacks
-<Insert Tech Stack>
+Insert Tech Stack here
 
 ### Activate virtualenv
 
@@ -19,9 +19,6 @@ Prediction of crop yield of a particular crop for a particular area in a particu
 ### Training & Testing
 
 
-### Author
-
-<p align="center"> Made with ❤</p>
-
-[Sanjay Lal](https://github.com/sanjailal),
+### Authors
+[Sanjay Lal](https://github.com/sanjailal),<br>
 [Arun Vigesh](https://github.com/ArunVigesh).
